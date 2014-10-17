@@ -10,5 +10,6 @@ package newpackage;
  * @author Kobe
  */
 public class NewClass {
+    hgfhfghfgh
     
 }
